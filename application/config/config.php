@@ -24,7 +24,7 @@
 */
 //$config['base_url'] = 'http://192.168.1.181/test/mypracAdmin/';
 
-$config['base_url'] = 'http://192.168.1.181/PMS/';
+$config['base_url'] = 'http://localhost/PMS/';
 
 /*
 |--------------------------------------------------------------------------
