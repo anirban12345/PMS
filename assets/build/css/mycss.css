@@ -1,0 +1,36 @@
+body,h1,h2,h3,h4,h5,h6,p
+  {      
+    /*font-family: 'MuseoModerno', cursive;*/
+    font-family: 'Verdana';
+  }
+  .login_wrapper
+  {
+    max-width:450px;
+      margin:10% auto;
+  }
+
+  .login_content form input[type="text"], .login_content form input[type="email"], .login_content form input[type="password"]
+  {
+    margin:0 0 10px;
+  }
+
+  .form-control
+  {
+    font-size:13px;
+  }
+
+  div.dataTables_wrapper div.dataTables_filter
+  {
+    float:right;
+  }
+
+  .table td, .table th
+  {
+    padding:7px;
+  }
+
+  .tile-stats .count, .tile-stats h3, .tile-stats p
+  {
+    font-size:20px;
+    padding:15px;
+  }
